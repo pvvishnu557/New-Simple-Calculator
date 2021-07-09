@@ -26,5 +26,5 @@ while(choice):
         continue
     again=input("want to do again:\n"
             +"yes or no:")
-    if again=="n"or "N":
+    if again=="n":
         choice=False
